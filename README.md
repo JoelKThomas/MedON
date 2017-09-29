@@ -1,0 +1,1 @@
+A user friendly, fully functioning pharmacy with store locator facility and cart. Blog feature to keep the customers aware of the latest health news. Implemented payment through PayPal. Developed using Python and Django.
